@@ -1,0 +1,11 @@
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\bin\Debug\netcoreapp3.0\Exece_Perso.exe
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\bin\Debug\netcoreapp3.0\Exece_Perso.deps.json
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\bin\Debug\netcoreapp3.0\Exece_Perso.runtimeconfig.json
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\bin\Debug\netcoreapp3.0\Exece_Perso.runtimeconfig.dev.json
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\bin\Debug\netcoreapp3.0\Exece_Perso.dll
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\bin\Debug\netcoreapp3.0\Exece_Perso.pdb
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\obj\Debug\netcoreapp3.0\Exece_Perso.csprojAssemblyReference.cache
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\obj\Debug\netcoreapp3.0\Exece_Perso.AssemblyInfoInputs.cache
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\obj\Debug\netcoreapp3.0\Exece_Perso.AssemblyInfo.cs
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\obj\Debug\netcoreapp3.0\Exece_Perso.dll
+E:\CURSO C#\Seção 11 - Exceções\Execeção Personalizada\Exece_Perso\Exece_Perso\obj\Debug\netcoreapp3.0\Exece_Perso.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Exece_Perso/1.0.0": {
+        "runtime": {
+          "Exece_Perso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exece_Perso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
