@@ -49,5 +49,22 @@ namespace Exece_Perso.Entities.Class
                 throw new DomainException("The check in should be a date before the check out ");
             }
         }
+
+
+        public override string ToString()
+        {
+            return "Reservation: "
+                + "Room: " 
+                + RoomNumber
+                + ", " + 
+                "check-in: " + 
+                CheckIn + 
+                ", " + 
+                "check-out: " 
+                + CheckOut 
+                + ", " 
+                + Duration()
+                + " nights";
+        }
     }
 }
